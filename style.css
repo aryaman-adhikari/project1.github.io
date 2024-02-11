@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter%3Awght%40200%3B300%3B400&display=swap&fbclid=IwAR0chq2b3_aiHBplF0G59yiJHvBS9SgzuIoZ7SSpjll86rRS3lAmrSdCJOw");
+
+.body{
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 250px;
+    position: fixed;
+ top: 12%;
+ left: 42%;
+ transform: rotate(16deg);
+
+ }
+ .image{
+    position: absolute;
+    width: 270px;
+    height: 350px;
+    box-shadow: 5px 4px 8px rgba(201, 53, 53, 0.8);
+    /* transform: rotate(16deg); */
+}
+
+ .cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 250px;
+    position: fixed;
+ top: 12%;
+ left: 41%;
+ transform: rotate(8deg);
+ }
+ .second{
+    position:absolute;
+    width: 270px;
+    height: 350px;
+    box-shadow: 5px 4px 8px rgba(201, 53, 53, 0.8);
+} 
+
+ .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    height: 320px;
+    width: 250px;
+    position: fixed;
+ top: 12%;
+ left: 40%;
+
+ }
+.third{
+    position: absolute;
+    width: 270px;
+    height: 350px;
+    box-shadow: 5px 4px 8px rgba(201, 53, 53, 0.8);
+    
+}   
+.title{
+    display: flex;
+    top: 2%;
+    left: 1%;
+    position: absolute;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: "inter",sans-serif ;
+    font-weight: 300;
+    
+
+} 
+.edit{
+      display: flex;
+      justify-content: end;
+      height: 30px;
+      width: 500px;
+      position: absolute;
+      /* background-color: black; */
+      left: 62%;
+      top: 2%;
+}
+.insta{
+ position: absolute;
+ right: 60%;
+ font-family: "inter",sans-serif;
+ font-size: 20px;
+ color: aliceblue;
+ font-weight: 300;
+ 
+}
+.gall{
+   position: absolute;
+   right: 30%;
+   font-family: "inter",sans-serif;
+ font-size: 20px;
+ color: aliceblue;
+ font-weight: 300;
+}
+.contact{
+   position: absolute;
+   font-family: "inter",sans-serif;
+ font-size: 20px;
+ color: aliceblue;
+ font-weight: 300;
+}
+.write{
+   display: flex;
+   position: absolute;
+   /* background-color: black; */
+   height: 320px;
+   width: 800px;
+   left:20%;
+   top: 32%;
+}
+.para{
+   font-size: 100px;
+   font-family: "inter",sans-serif;
+   color: aliceblue;
+   left: 0%;
+   position: absolute;
+   font-weight: 300;
+  
+}
+.parag{
+   font-size: 100px;
+   font-family: "inter",sans-serif;
+   color: aliceblue;
+   right: 35%;
+   position: absolute;
+   top: -3%;
+   font-weight: 300;
+
+}
+.paragr{
+   font-size: 100px;
+   font-weight: 300;
+   font-family: "inter",sans-serif;
+   color: aliceblue;
+   right: 8%;
+   position: absolute;
+   top: -8%;
+}
+.person{
+   /* background-color: black; */
+   display: flex;
+   position: absolute;
+   top: 92%;
+   left: 45%;
+   height: 90px;
+   width: 200px;
+   color: aliceblue;
+   font-size: 20px;
+   font-weight: 300;
+   font-family: "inter",sans-serif;
+  
+}
+.corner{
+   display: flex;
+   position: absolute;
+   top: 94%;
+   left: 1%;
+   font-size: 20px;
+   font-weight: 300;
+   color: aliceblue;
+   font-family: "inter",sans-serif;
+
+}
+.bottom{
+   display: flex;
+   position: absolute;
+   top: 94%;
+   left: 93%;
+   font-size: 20px;
+   font-weight: 300;
+   font-family: "inter",sans-serif;
+   color: aliceblue;
+}
